@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at DE2_Default.v(471): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at DE2_Default.v(578): always construct contains both blocking and non-blocking assignments
